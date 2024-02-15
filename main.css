@@ -1,0 +1,27 @@
+
+.profile-card {
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(255, 22, 223, 0.15); 
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px); 
+}
+
+}
+
+.profile-card h2 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stats p {
+    margin: 0;
+    color: #666;
+}
